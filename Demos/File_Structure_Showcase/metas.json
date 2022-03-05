@@ -1,0 +1,23 @@
+{
+    "name":"DEMO",
+    "series-name":"",
+    "issues":"0",
+    "SP":false,
+    "SP-text":"",
+    "format":"physical",
+    "publisher":"Kab",
+    "region":"INTL-INTL-INTL",
+    "publisher-x-info-enable":true,
+    "publisher-x-info":"Creator",
+    "links":"N/A",
+    "release-date":"2022/03/02",
+    "scan-date":"2022/03/02",
+    "scanner":"Kab",
+    "total-pages":2,
+    "dap-ver":"v0.0.1r1",
+    "software":"Hand-written",
+    "image-codec":"png",
+    "image-codec-x-info-enable":true,
+    "image-code-x-info":"mono/grscl",
+    "copyright-status":"Public Domain"
+}
